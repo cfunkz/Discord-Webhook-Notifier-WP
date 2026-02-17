@@ -1,5 +1,3 @@
-# Discord Webhook Notifier for WordPress
-
 <p align="center">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
@@ -19,6 +17,8 @@
   <img src="https://img.shields.io/badge/Gutenberg-Compatible-FF6900?style=flat-square&logo=wordpress&logoColor=white" alt="Gutenberg">
   <img src="https://img.shields.io/badge/License-GPL2-green?style=flat-square" alt="License">
 </p>
+
+# Discord Webhook Notifier for WordPress
 
 Send WordPress post notifications to Discord channels with full control over the embed layout.
 
