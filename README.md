@@ -8,7 +8,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/cfunkz/Discord-Webhook-Notifier-WP/releases/download/v2.0.1/discord-webhook-wp.zip">
-    <img src="https://img.shields.io/badge/Download%20Plugin-v1.0.1-57F287?style=for-the-badge&logo=github&logoColor=white" alt="Download">
+    <img src="https://img.shields.io/badge/Download%20Plugin-v2.0.1-57F287?style=for-the-badge&logo=github&logoColor=white" alt="Download">
   </a>
 </p>
 <p align="center">
