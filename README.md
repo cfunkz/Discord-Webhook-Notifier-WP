@@ -62,3 +62,7 @@
 
 - WordPress 5.6+
 - PHP 7.4+
+
+## Disclaimer
+
+This plugin is not affiliated with, endorsed by, or sponsored by Discord. Discord and the Discord logo are trademarks of Discord Inc.
