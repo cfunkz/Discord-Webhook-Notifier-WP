@@ -1,8 +1,26 @@
 # Discord Webhook Notifier for WordPress
 
-Send WordPress post notifications to Discord channels with full control over the embed layout.
+<p align="center">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+</p>
+<h1 align="center">Discord Webhook Notifier</h1>
+<p align="center">
+  Send WordPress post notifications to Discord channels — with full control over the embed layout.
+</p>
+<p align="center">
+  <a href="https://github.com/cfunkz/Discord-Webhook-Notifier-WP/releases/download/v1.0.1/discord-webhook-wp.zip">
+    <img src="https://img.shields.io/badge/Download%20Plugin-v1.0.1-57F287?style=for-the-badge&logo=github&logoColor=white" alt="Download">
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-7.4%2B-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/WordPress-5.6%2B-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/Gutenberg-Compatible-FF6900?style=flat-square&logo=wordpress&logoColor=white" alt="Gutenberg">
+  <img src="https://img.shields.io/badge/License-GPL2-green?style=flat-square" alt="License">
+</p>
 
-![WordPress](https://img.shields.io/badge/WordPress-5.6%2B-blue) ![License](https://img.shields.io/badge/license-GPL2-green)
+Send WordPress post notifications to Discord channels with full control over the embed layout.
 
 <img width="1320" height="769" alt="image" src="https://github.com/user-attachments/assets/f3d0c367-5626-4c87-81fa-afa07803c8c4" />
 <img width="1138" height="773" alt="image" src="https://github.com/user-attachments/assets/60fdacb3-b70a-48dc-b540-b3a452c4b1ef" />
