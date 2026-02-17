@@ -18,10 +18,6 @@
   <img src="https://img.shields.io/badge/License-GPL2-green?style=flat-square" alt="License">
 </p>
 
-# Discord Webhook Notifier for WordPress
-
-Send WordPress post notifications to Discord channels with full control over the embed layout.
-
 <img width="1320" height="769" alt="image" src="https://github.com/user-attachments/assets/f3d0c367-5626-4c87-81fa-afa07803c8c4" />
 <img width="1138" height="773" alt="image" src="https://github.com/user-attachments/assets/60fdacb3-b70a-48dc-b540-b3a452c4b1ef" />
 <img width="1117" height="776" alt="image" src="https://github.com/user-attachments/assets/26b7512f-dc58-4dfd-92f9-d12946e7f214" />
