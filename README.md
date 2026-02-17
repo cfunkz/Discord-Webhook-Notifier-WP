@@ -10,7 +10,7 @@ Send WordPress post notifications to Discord channels with full control over the
 
 ## Installation
 
-1. Download [discord-webhook-wp.zip](https://github.com/cfunkz/Discord-Webhook-Notifier-WP/releases/download/v1.0.1/discord-webhook-wp.zip)
+1. Download [discord-webhook-wp.zip](https://github.com/cfunkz/Discord-Webhook-Notifier-WP/releases/download/v2.0.1/discord-webhook-wp.zip)
 2. WordPress Admin → **Plugins → Add New → Upload Plugin**
 3. Upload the zip → **Activate**
 4. Go to **Discord** in the sidebar
